@@ -1,0 +1,13 @@
+# Ignora la carpeta .vscode que contiene la configuración del proyecto
+# para visual code.
+.vscode/
+
+
+# Ignora la carpeta lib y Scripts del entorno virtual que al instalar los
+# requerimientos se instalará en ese equipo.
+lib/
+Scripts/
+
+
+# Ignora __pycache__ en cualquier carpeta del proyecto.
+**/__pycache__
